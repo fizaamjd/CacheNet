@@ -1,6 +1,6 @@
 # CacheNet: Agent-Based Distributed Cache Simulator
 
-[![CI](https://github.com/fizaamjad897/ABM-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/fizaamjad897/ABM-Project/actions/workflows/ci.yml)
+[![CI](https://github.com/fizaamjd/CacheNet/actions/workflows/ci.yml/badge.svg)](https://github.com/fizaamjd/CacheNet/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB.svg)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000.svg)](https://nextjs.org/)
@@ -9,7 +9,7 @@ A simulation platform for exploring distributed cache invalidation, consistency 
 
 ## Demo video
 
-https://github.com/user-attachments/assets/82fc32cb-b3fe-4a5f-9e2b-9362572e592f
+https://github.com/user-attachments/assets/2b4e6899-8b74-4228-b1a0-cf02a8fa16a3
 
 [Open the interactive reel](https://cachenet-demo.netlify.app/).
 
